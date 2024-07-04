@@ -10,5 +10,5 @@ function filtrarPares(arr){
 } 
  arr = [1,2,3,4,5,6]
  resultado = filtrarPares(arr)
- console.log(resultado)  Teste 1  
+ console.log(resultado)   
 
